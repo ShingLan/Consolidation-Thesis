@@ -1,0 +1,8 @@
+"","population","0~500","501~3300","3301~10000","10001~100000",">100000"
+"1","health based violation",11950,8180,3696,1449,137
+"2","maximum contaminant levels violation",11640,7773,3424,1278,126
+"3","treatment technolgy violation",309,402,271,171,11
+"4","systems with health based violation",767,728,348,212,17
+"5","systems with maximum contaminant levels violation",685,693,336,206,14
+"6","systems with treatment technolgy violation",134,113,55,40,6
+"7","total community water systems",2078,1548,677,308,36
